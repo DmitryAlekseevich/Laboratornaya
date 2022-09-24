@@ -1,0 +1,10 @@
+C:\Users\pibo0121011\Desktop\Programma vesokosniy god\Programma vesokosniy god\bin\Debug\Programma vesokosniy god.exe.config
+C:\Users\pibo0121011\Desktop\Programma vesokosniy god\Programma vesokosniy god\bin\Debug\Programma vesokosniy god.exe
+C:\Users\pibo0121011\Desktop\Programma vesokosniy god\Programma vesokosniy god\bin\Debug\Programma vesokosniy god.pdb
+C:\Users\pibo0121011\Desktop\Programma vesokosniy god\Programma vesokosniy god\obj\Debug\Programma vesokosniy god.csproj.AssemblyReference.cache
+C:\Users\pibo0121011\Desktop\Programma vesokosniy god\Programma vesokosniy god\obj\Debug\Programma_vesokosniy_god.Form1.resources
+C:\Users\pibo0121011\Desktop\Programma vesokosniy god\Programma vesokosniy god\obj\Debug\Programma_vesokosniy_god.Properties.Resources.resources
+C:\Users\pibo0121011\Desktop\Programma vesokosniy god\Programma vesokosniy god\obj\Debug\Programma vesokosniy god.csproj.GenerateResource.cache
+C:\Users\pibo0121011\Desktop\Programma vesokosniy god\Programma vesokosniy god\obj\Debug\Programma vesokosniy god.csproj.CoreCompileInputs.cache
+C:\Users\pibo0121011\Desktop\Programma vesokosniy god\Programma vesokosniy god\obj\Debug\Programma vesokosniy god.exe
+C:\Users\pibo0121011\Desktop\Programma vesokosniy god\Programma vesokosniy god\obj\Debug\Programma vesokosniy god.pdb
